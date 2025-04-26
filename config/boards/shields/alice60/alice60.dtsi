@@ -97,7 +97,7 @@
                           LED_COLOR_ID_RED
                           LED_COLOR_ID_BLUE>;
 
-/ {
+
     physical_layout0: physical_layout_0 {
         compatible = "zmk,physical-layout";
         display-name = "LAYOUT";
