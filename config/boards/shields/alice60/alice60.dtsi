@@ -98,7 +98,7 @@
                           LED_COLOR_ID_BLUE>;
 
 
-    physical_layout0: physical_layout_0 {
+    alice60: alice60 {
         compatible = "zmk,physical-layout";
         display-name = "LAYOUT";
 
