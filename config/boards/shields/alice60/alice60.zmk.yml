@@ -1,0 +1,8 @@
+file_format: "1"
+id: alice60
+name: alice60
+type: shield
+url: https://makerdiary.com/pages/m60-mechanical-keyboard
+requires: [nrfmicro_13_52840]
+features:
+  - keys
