@@ -35,7 +35,7 @@
 
         layer_1 {
             bindings = <
-&bootloader     &kp C         &trans    &trans        &trans      &trans      &trans        &trans  &trans  &trans  &trans  &trans     &trans
+&bootloader     &trans        &trans    &trans        &trans      &trans      &trans        &trans  &trans  &trans  &trans  &trans     &trans
 &bt BT_CLR      &bt BT_SEL 1  &kp UP    &bt BT_SEL 2  &bt BT_PRV  &bt BT_NXT  &trans        &trans  &trans  &trans  &trans  &trans     &trans
 &bt BT_CLR_ALL  &kp LEFT      &kp DOWN  &kp RIGHT     &trans      &trans      &trans        &trans  &trans  &trans  &trans             &trans
 &trans          &trans        &trans    &trans        &trans      &trans      &trans        &trans  &trans  &trans  &trans  &trans     &trans
